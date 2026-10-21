@@ -1,3 +1,6 @@
+**Fabric Project using DataFlow Gen2**
+
+
 **HR Attrition Analysis (IBM Dataset)**
 
 **Tech Stack used**:Microsoft Fabric, Power BI
