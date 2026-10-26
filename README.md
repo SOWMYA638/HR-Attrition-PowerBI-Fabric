@@ -127,27 +127,7 @@ The dashboard provides a foundation for data-driven workforce analysis:
 
 The dashboard identifies patterns and associations; further investigation is required before attributing attrition to specific causes.
 
-## 📸 Dashboard Preview
 
-### Overview
-<!-- Add your Overview page screenshot here -->
-![HR Attrition Dashboard - Overview](images/hr-attrition-overview.png)
-
-### Deep Dive
-<!-- Add your Deep Dive page screenshot here -->
-![HR Attrition Dashboard - Deep Dive](images/hr-attrition-deep-dive.png)
-
-## 📂 Repository Structure
-
-```text
-HR-Attrition-Microsoft-Fabric-Power-BI/
-│
-├── README.md
-├── HR Attrition Analysis.pbix
-└── images/
-    ├── hr-attrition-overview.png
-    └── hr-attrition-deep-dive.png
-```
 
 ## 🌱 Key Learnings
 
