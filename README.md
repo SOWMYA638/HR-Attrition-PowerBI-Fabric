@@ -147,3 +147,7 @@ The dashboard identifies patterns and associations; further investigation is req
 *Explore. Analyze. Understand. Improve.* 📊
 
 </div>
+
+<img width="710" height="488" alt="HR Attrition Deepdive" src="https://github.com/user-attachments/assets/ccc83955-9c22-4fa1-8ed9-a10d7a3b82d4" />
+<img width="706" height="495" alt="HR Attrition Overview" src="https://github.com/user-attachments/assets/9fa8a6f5-a498-4959-91e7-ea1a04097e76" />
+
